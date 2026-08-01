@@ -8,4 +8,5 @@ manually before completing the merge. This workflow enables multiple developers 
 work. Git branching and merging improve project organization, support parallel development, simplify collaboration, and maintain a stable main branch while allowing
 continuous development of new features.
 
+
 By Sanyam Surana
